@@ -9,4 +9,4 @@ Projeto da história em quadrinhos - Aventura Espacial
 
 ## Links Importantes
 - [Product Backlog](https://link-do-google-sheets.com)
-- [Quadro Kanban](https://github.com/SEU_USUARIO/StefanyAbreu/Projeto-Quadrinhos)
+- [Quadro Kanban](https://github.com//StefanyAbreu/Projeto-Quadrinhos)
